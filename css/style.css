@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap");
+@font-face {
+	font-family: "Larsseit";
+	src: url("../fonts/Larsseit-Bold.woff") format("woff"), url('../fonts/Larsseit-Medium.woff') format('woff'), url('../fonts/Larsseit-Italic.woff') format('woff');
+	font-display: swap;
+	font-weight: 400;
+	font-style: normal;
+}
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@900&family=Rowdies:wght@700&display=swap");
+div {
+color: rgb(70, 52, 52);
+}
+.introduction p{
+	color: blueviolet
+}
+.content h1{
+	color: red
+}
+.content li{
+	color: rgb(48, 180, 59)
+}
+.content p{
+	color: rgb(59, 105, 59)
+}
+.position{
+	color: rgb(253, 92, 92)
+}
+.position .text {
+	color: gold
+}
+.paragraph__1 > p{
+	color: aqua
+}
+.paragraph__2 .text2 ~ p{
+	color: blue
+}
+div .text3 + p{
+	color: rgb(180, 71, 71)
+}
+.paragraph__4 .text4.lesson{
+color: darkslateblue
+}
+
+
+
+
